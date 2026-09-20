@@ -1,12 +1,14 @@
 ### Nikita — Python engineer
 
 I build LLM infrastructure that runs on your own hardware.
-Currently: **Ember**, a gateway that routes between local and 
-cloud models with per-route timeouts and fallbacks.
 
-**Stack:** Python, FastAPI, async, Docker, Ollama / vLLM, Postgres, Qdrant  
-**Also:** computer vision (YOLO, DeepSort), PyTorch
+Currently: **Ember** — a gateway between local and cloud models.
+Per-route timeouts, fallbacks, one config file.
 
-I write up what breaks: [r/LocalLLaMA](link) · [noctau.dev](link)
+**Stack:** Python · FastAPI · async · Docker · Ollama / vLLM · Postgres · Qdrant  
+**Also:** computer vision — YOLO, DeepSort, PyTorch
 
-Open to remote work. → nikita@noctau.dev
+I write up what breaks and what the numbers were:  
+[u/NoctauTu](https://reddit.com/u/NoctauTu) · [@NoctauTu](https://x.com/NoctauTu)
+
+Open to remote work → noctauTu@proton.me
